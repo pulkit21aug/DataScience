@@ -1,0 +1,3 @@
+# Hacker Earth dataset  - https://www.hackerearth.com/
+
+This dataset was available form HackerEarth . You can learn exploratory data analysis and  Dynamic Linear Models
