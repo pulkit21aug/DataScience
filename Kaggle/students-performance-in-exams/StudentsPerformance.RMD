@@ -1,0 +1,120 @@
+---
+title: "Kaggle :Students Performance in Exams"
+author: "pulkit saxena"
+output:
+  word_document: default
+  html_notebook: default
+---
+
+
+#Research Objective 
+Study the effect of level of eductaion on students academic performance.
+
+##Research Objectives
+RO1 : Does Parents education has any effect on child eductaion performance
+RO2 : Does Male students achieve high academic score than females
+
+
+
+```{r}
+#install.packages("gmodels" ,dependencies = TRUE)
+library(gmodels)
+library(dplyr)
+
+
+#Load the data 
+student_performance_data <- read.csv("StudentsPerformance.csv")
+
+summary(student_performance_data)
+```
+
+
+```{r}
+str(student_performance_data)
+```
+
+
+#Exploratory analyis
+No Missing Data identified . Data consists of int and categorical variables . Distribution seem to be normally 
+
+```{r}
+hist(student_performance_data$math.score)
+hist(student_performance_data$reading.score)
+hist(student_performance_data$writing.score)
+```
+
+Data seems to normally distributed
+
+
+#Data preparation 
+Create derived variables to derive academic performance score and parents educational performance
+
+# RO1 Does Parents education has any effect on child eductaion performance
+Researcher wants to know if there is any association between parents eductaion on students academic performance 
+
+Ho: Parents education has zero effect on child eductaion performance
+Ha: Parents education has effect on child eductaion performance
+```{r}
+
+#Derive student performance based on avg score
+
+student_performance_data$avg_score <- (student_performance_data$math.score +student_performance_data$reading.score + student_performance_data$writing.score)/3
+
+getPerformance <- function (avg_score) {
+ 
+  result <- 'Medium'
+  
+  if(avg_score >= 80) {
+    # print('High')
+    result <- 'High'
+  } else if (avg_score > 60 && avg_score <80) {
+     result <- 'Medium'
+   # print('Medium')
+  } else {
+    result <- 'Low'
+  } 
+
+  return(result)
+}
+
+
+student_performance_data$ac_perf <- as.factor(mapply(getPerformance,student_performance_data$avg_score))
+
+
+##RO1 check for association 
+CrossTable(student_performance_data$parental.level.of.education,student_performance_data$ac_perf ,chisq=TRUE )
+
+
+```
+
+#RO1 - Result Summary
+Since p-vallue is significant , researcher rejects the null hypotheis 
+p =  5.028598e-06 
+
+Hence, there is association between parents eductaion and child academic performance . 
+
+
+
+#RO2 : Does Male students achieve high academic score than females
+Researcher wants to know if male students outperform female students in academic performance or vice versa
+
+H0: µ1 >= µ2 : Male students academic performance is greater  than or equal to female students
+Ha: µ1 < µ2  : Male students academic performance is less than female employees
+
+```{r}
+
+#RO2 : Male students achieve high academic score - check for µ using t-test
+
+male_dataset <- select(student_performance_data,avg_score,gender) %>% filter(gender == "male")
+
+female_dataset <- select(student_performance_data,avg_score,gender) %>% filter(gender == "female")
+
+t.test(male_dataset$avg_score , female_dataset$avg_score, alt = "less")
+
+```
+#RO2 - Result Summary
+since p-value is signifcant  1.593e-05  researcher reject the  null hypothesis . Hence Male students academic performance is less than female employees.
+
+
+
+

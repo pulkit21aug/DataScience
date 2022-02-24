@@ -1,0 +1,132 @@
+---
+title: "who_suicide_statistics"
+author: "pulkit saxena"
+output:
+  word_document: default
+  html_notebook: default
+---
+#Dataset Overview 
+WHO Suicide Statistics - Basic historical (1979-2016) data by country, year and demographic groups
+
+#Potential  Customer
+Governement,NGO and insurance companies.
+Governent-NOGO : Can use this data for social welfare schemes. To understand the segment which has sucidal tendency.
+Insurance Companies : The life insurance suicide clause is a provision that’s in place during the first x years of the policy. Normally, when the policyholder dies, the death benefit is paid to the beneficiaries  lump-sum amount .However, if the death is a result of suicide, the insurer can refuse to pay.
+Insurance companies can use this data to define the variable x - years of polciy for suicide clause based on different segments
+
+#Research Objectives
+1. Research is limited to country US
+2. Identify different segments and is there any difference between the segment regarding the suicide numbers 
+   across various segments
+
+#Exploratory data anlysis 
+First we will load the data and so some exploratory analysis regarding the data , variables ,outliers etc.
+
+```{r}
+library(dplyr)
+testdata <- read.csv("who_suicide_statistics.csv")
+
+str(testdata)
+
+```
+##Data description
+Country , sex, age are factor variables . For segmentation purpose demographic variables sex and age are of most importance to our analysis
+Response variable which is sucicides_no  has NA
+
+```{r}
+#load the data only for US
+testdata_america = testdata %>%group_by(country) %>%filter(country == "United States of America")
+str(testdata_america)
+
+summary(testdata_america)
+
+```
+
+#US-EDA
+There is missing data for suicides_no NA's   :12 . Since there are 12 records which do not have the data .
+
+##Missing Data Handling
+Omit the records since  only 2.6% of the data is missing
+
+
+```{r}
+testdata_america = na.omit(testdata_america)
+
+```
+
+#RO1 : Does Male have higher suicdal tendency as compared to females
+Researcher wants to know if there are more male suicides as compared to females
+
+H0: µ1 <= µ2 : Male suicides is  less  than or equal to female 
+Ha: µ1 > µ2  : Male suicides is greater than female 
+
+```{r}
+
+male_dataset <- select(testdata_america,suicides_no,sex) %>% filter(sex == "male")
+
+female_dataset <- select(testdata_america,suicides_no,sex) %>% filter(sex == "female")
+
+t.test(male_dataset$suicides_no , female_dataset$suicides_no, alt = "greater")
+
+boxplot(male_dataset$suicides_no,female_dataset$suicides_no , names = c("Male","Female"),col = c("blue","pink"))
+
+```
+#RO1 : Results
+The p-value of the test is 2.2e-16 which is less than the significance level alpha = 0.05. We can conclude that men’s average suicide number  is significantly different from women’s suicide . Hence men have higher suicide number than females stating that male have higher suicidal tendency . Our box plot visiualisation also interpret the same result.
+
+#RO2 Is  the male suicide on rise  ?
+```{r}
+library(ggplot2)
+male_dataset1 <- select(testdata_america,year,suicides_no,sex)%>% filter(sex == "male") %>% group_by(year) %>% 
+  summarise(suicides_no = sum(suicides_no))
+
+male_dataset1$suicides_no <- male_dataset1$suicides_no/min(male_dataset1$suicides_no)
+
+ggplot(male_dataset1, aes(x=year, y=suicides_no)) +
+         geom_line(color = "#00AFBB", size = 1) 
+     
+
+```
+#RO2 - Results
+Trend graphs shows that male suicide is rising .
+
+#RO3 - Identification of sub-segment 
+Researcher wants to know which age group is more prone to suicidal tendency among males.
+
+```{r}
+levels(testdata_america$age)
+
+
+```
+
+
+H0: µ1 = µ2 = µ3 = µ4 = µ5 = µ6 : There is no significant difference among age groups 
+Ha: µ1 ≠ µ2 ≠ µ3 ≠ µ4 ≠ µ5 ≠ µ6  : There is signifcant difference among age groups
+
+```{r}
+
+#anova test 
+aov_model <- aov(suicides_no ~ age, data = testdata_america)
+summary(aov_model)
+
+
+
+
+male_dataset2 <- select(testdata_america,year,suicides_no,sex,year,age)%>% filter(sex == "male") %>%    group_by(year,age) %>%  summarise(suicides_no = sum(suicides_no))
+
+
+
+ggplot(male_dataset2, aes(x=year, y=suicides_no,colour  = age)) +
+        geom_point(color = "#00AFBB", size = 2) + geom_line(size = 4)
+
+
+```
+#RO3 - Results
+We reject null hypothesis , since the p-value <2e-16 is significant . Hence there is significant difference among various groups .
+
+Trend graphs shows that highest number of suicide is among the age group of 35 -54 years. Another point to note that post 2005 , there is sharp increase in suicide among the age group of 55-74 years which is the age group of retirement or old age . So following 2 sub-segments are of importantance to researcher
+35-54 years male - which is the earning class as per socio-economic data 
+55-74 years male - which is the retirement age.
+
+#Recommendation 
+Government and NGO are advised to do further research and understand the root causes of suicide among these 2 segments . NGO can start suicide helpline and target this segment to calm done and show empathy so as to avoid suicidal tendency. Insurance companies can use this data to update the suicide clause accordingly while issuing the insurance policy. Important issue is the sudden increase in the suicide rate among the old age segment , which needs to be further investigated by Government agencies. 
