@@ -1,0 +1,370 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,year,month
+DELHI,EAST DELHI (Preet Vihar),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,"ASKED ABOUT TO SUBSIDY ON SHEDNET HOUSE ?
+","निर्धारित इकाई लागत या विभाग द्वारा अनुमोदित फर्मस की दरों में से जो भी कम होने पर अधिकतम 4000 वर्गमीटर क्षेत्र के लिए सामान्य श्रेणी के कृषकों को 50 प्रतिशत अनुदान तथा लघु, सीमान्त, अनुसूचित जाति व अनुसूचित जनजाति कृषकों को 70 प्रतिशत अनुदान देय है। इसके अतिरिक्त माननीय मुख्यमंत्री बजट घोषणा की अनुपालना में अधिसूचित जनजाति क्षेत्र के कृषकों के साथ-साथ प्रदेश के समस्त  लघु, सीमान्त श्रेणी के कृषकों को 25 प्रतिशत अतिरिक्त अनुदान देय है।",2024-01-15T14:47:12.33,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Flowers,Gladiolus,	Plant Protection	,"FARMER ASKED ABOUT TO ABOUT INSECT CONTROL IN GLADIOLUS ?
+","डाईमिथोएट 30 ईसी 2 एम एल प्रति लीटर पानी की दर से छिड़काव करें।
+",2024-01-01T15:06:27.68,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,Nutrient Management,"FARMER ASKED  NUTRIENT MANAGEMENT IN WHEAT ?
+","सूक्ष्म पोषक तत्व 4 ग्राम प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-01T19:05:04.043,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,THANX FOR CALLING KISAAN CALL CENTER,2024-01-04T15:55:47.023,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,ASKED ME ABOUT PM KISAN SAMMAN NIDHI STATUS ?,"
+कृपया प्रधानमंत्री किसान सम्मान निधि योजना में अपने पंजीकरण नंबर के साथ दोबारा कॉल करें। धन्यवाद।",2024-01-07T17:45:04.16,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,ASKED ME ABOUT TO PM KISAN SAMMAN NIDHI STATUS ?," 
+
+प्रधानमंत्री किसान सम्मान निधि योजना की अधिक जानकारी के लिए अपने क्षेत्र के नोडल अधिकारी से संपर्क करें। धन्यवाद
+
+",2024-01-07T17:45:43.197,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,ASKED ME ABOUT TO PM KISAN SAMMAN NIDHI STATUS ?," 
+
+प्रधानमंत्री किसान सम्मान निधि योजना की अधिक जानकारी के लिए अपने क्षेत्र के नोडल अधिकारी से संपर्क करें। धन्यवाद
+
+",2024-01-07T17:45:43.45,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Oilseeds,Mustard,	Water Management	,Information related to irrigation in mustard crop,"सरसों की फसल में पहली सिंचाई फूल आने के समय तथा दूसरी सिंचाई फलियाँ में दाने भरने की अवस्था में करना चाहिए,",2024-01-10T09:11:15.133,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Credit,ASKED ABOUT TO SOLUTION INFORMATION ?,कवकनाशी दवा के साथ में एनपीके दवा का घोल बनाकर छिड़काव कर सकते हैं।,2024-01-10T13:50:12.577,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,COMMING CALL ,आपकी बात किसान कॉल सेंटर से हो रही है खेती-बाड़ी संबंधी जानकारी प्राप्त कर सकते हो,2024-01-12T17:06:10.083,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,"FOR CALLING KISAAN CALL CENTER
+","किसान कॉल सेंटर में कॉल करने के लिए धन्यवाद 
+",2024-01-15T15:38:28.72,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,मौसम विभाग के पूर्वानुमान अनुसार अगले तीन-चार दिन में बरसात की संभावना नहीं है लेकिन आंशिक रूप से बादल बने रहेंगे,2024-01-16T14:55:32.873,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Fruits,Lemon,	Plant Protection	,"ASKED ABOUT CONTROL OF DIEBACK  DISEASE IN LEMON  ? 
+","--कॉपर ऑक्सीक्लोराइड 50%डब्लू.पी.(ब्लइटटॉक्स/ ब्लू कॉपर) दवा का 3 ग्राम प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-19T13:08:06.96,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,Nutrient Management,FARMER ASKED ABOUT THE NUTRIENT MANAGEMENT IN WHEAT ?,"NPK 19:19:19 ग्रेड का 10 ग्राम प्रति लिटर पानी में घोल कर छिड़काव करें।
+मल्टीप्लेक्स (सूक्ष्म पोषक तत्व) 4 GRAM प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-19T13:18:37.703,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,TELL ME HOW TO FILED EKYC IN PM KISAN SCHEME  ?,"प्रधानमंत्री किसान सम्मान निधि योजना में eKYC  के लिए आप स्वयं भी  eKYC कर सकते हैं लैपटॉप या मोबाइल से इसके अलावा आप अपने नजदीकी सीएससी  (CSC ) सेंटर   पर जाकर बायोमेट्रिक eKYC भी करवा सकते हैं https://pmkisan.gov.in/aadharekyc.aspx
+",2024-01-19T14:48:47.36,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-19T19:04:01.333,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes, Ask about information on  PM - KISAN beneficiary status,प्रधानमंत्री किसान सम्मान निधि योजना के लाभार्थी की स्थिति जानने के लिए इस लिंक पर क्लिक करें https://pmkisan.gov.in/BeneficiaryStatus_New.aspx,2024-01-21T19:06:54.003,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes, KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-22T19:02:24.693,2024,1
+DELHI,New Delhi (Connaught Place),0   ,NA,AGRICULTURE,Others,Others,Government Schemes,"FARMER ASKED ABOUT TO PM KISAN SAMMAN NIDHI YOJANA ?
+",पीएफएमएस / बैंक अस्वीकृति कारण: यूआईडी कभी भी डीबीटी के लिए सक्षम नहीं है (आधार को खाते से जोड़ने के लिए अपने बैंक से संपर्क करें),2024-01-23T12:39:43.6,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes," 
+FARMER ASKED ABOUT TO PM KISAN SAMMAN NIDHI YOJANA ?","पीएम किसान निधि योजना की अधिक जानकारी के लिए आप अपने ब्लॉक में नोडल ऑफिसर से संपर्क करें
+ ",2024-01-24T16:18:40.517,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,"THANX FOR CALLING KISAAN CALL CENTER
+","THANX FOR CALLING KISAAN CALL CENTER
+
+",2024-01-24T16:28:11.09,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT TO PM KISAN SAMMAN NIDHI YOJANA ?,पीएम किसान निधि योजना की अधिक जानकारी के लिए आप अपने ब्लॉक में नोडल ऑफिसर से संपर्क करें,2024-01-24T18:48:31.63,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Vegetables,Ridge Gourd,Seeds and Planting Material,"ASKED ABOUT TO VARIETIES OF RIDGE GOURD ?
+","चिकनी तोरई की उन्नत किस्में- पूसा चिकनी, पूसा सुप्रिया, शंकर लॉन्ग, डार्क ग्रीन, पूसा स्नेहा, लाइट माया
+धारीदार तोरई की उन्नत किस्में- पूसा नसदार, शंकर बंसी, शंकर कावेरी, सतपुतिया, पूसा नूतन है 
+पूसा दिल्ली के संपर्क नम्बर = 011-25841670, टोल फ्री नम्बर - 1800-11-8989 है। 
+",2024-01-25T09:37:40.86,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,"FARMER ASKED ABOUT TO PM KISAN SAMMAN NIDHI YOJANA ?
+","पीएफएमएस / बैंक अस्वीकृति कारण: यूआईडी कभी भी डीबीटी के लिए सक्षम नहीं है (आधार को खाते से जोड़ने के लिए अपने बैंक से संपर्क करें)
+बैंक द्वारा एनपीसीआई मैपर से आधार नंबर डी-सीड किया गया - ग्राहक अपने बैंक से संपर्क करने के लिए
+खाता विवरण बैंक के साथ पुनर्वैधीकरण प्रक्रिया के अधीन है",2024-01-25T13:36:11.82,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Pulses,Green Gram (Moong Bean/ Moong),Varieties,FARMER ASKED ABOUT THE VARIETY OF GREEN GRAM ?,"VARIETY OF GREEN GRAM IS PUSA VISHAL, MUM- 1, K-851 ",2024-01-26T15:42:46.86,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Fruits,Guava,Cultural Practices,FARMER ASKED ABOUT THE CULTURE PRACTICES IN GUAVA ?,अमरूद के पौधों को आप गमले में लगाने की बजाय गड्ढा मे लगाना चाहिए |,2024-01-27T11:46:37.893,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Sowing Time and Weather,ASKED ABOUT TO SOWING TIME OF ZAID SEASON ?,जायद (रबी और खरीफ के मध्य में बोई जाने वाली फसल) की सब्जियों की बुवाई का उपयुक्त समय चल रहा है। इन फसलों की बुवाई फरवरी से मार्च तक की जाती हैं।,2024-01-27T18:47:20.387,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"मौसम का पूर्वानुमान जिले का नाम NEW DELHI और ब्लॉक DELHI अगले तीन दिनों में वर्षा होने की संभावना है, लेकिन आंशिक रूप से बादल छाए रहेंगे। आज का अपेक्षित अधिकतम तापमान (20 डिग्री सेल्सियस और न्यूनतम तापमान 08 डिग्री सेल्सियस और हवा की गति 10 किलोमीटर प्रति घंटा) चलने की संभावना है।
+",2024-01-28T19:05:44.7,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Fruits,Pomegranate,	Plant Protection	,"ASKED ABOUT TO NUTRIENT MANAGEMENT  ?
+","अनार लाल करने के लिए पोटेशियम डाइहाइड्रोजेन ऑर्थोफोस्फेट (0.5%) 10 ग्राम प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-31T15:42:15.85,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-01T08:03:10.23,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Condiments and Spices,Coriander,	Plant Protection	,"TELL ME DISEASE CONTROL IN  CORIANDER ?
+","SPRAY OF BELETON 1 ML PER LITER WATER 
+",2024-01-01T09:45:28.577,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Barley (Jau),Sowing Time and Weather,farmer asked about to Time of sowing barley ?,"For optimum yield, complete sowing from 15 October to 15 November. If sowing get delayed yield will get declined.
+",2024-01-02T13:11:54.343,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Fruits,Bail,	Plant Protection	,"FARMER ASKED ABOUT DISEASE CONTROL IN BAIL ?
+","कॉपर ऑक्सीक्लोराइड 50%डब्लू.पी.(ब्लइटटॉक्स/ ब्लू कॉपर) दवा का 3 ग्राम प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-03T11:38:58.66,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,ASKED ABOUT TO MERI FASAL MERA BYORA INFORMATION ?,मेरी फसल मेरा बोरा किसान कॉल सेंटर के टोल फ्री नंबर 1800 180 2117 है |,2024-01-04T13:17:03.113,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,ASKED ABOUT TO  HARYANA STATE INFORMATION ?,कृपया आप अपने हरियाणा  की लोकल सिम से 18001801551 नंबर लगाए ताकि आपका सम्पर्क हरियाणा  किसान कॉल सेण्टर से होगा जंहा से आपको आपके  राज्य की जानकारी मिल जाएगी |,2024-01-04T13:17:27.2,2024,1
+DELHI,New Delhi (Connaught Place),0   ,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,THANX FOR CALLING KISAAN CALL CENTER,2024-01-04T17:28:52.25,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,THANX FOR CALLING KISAAN CALL CENTER,2024-01-04T17:51:25.06,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,Weather,Farmer asked query on Weather,"मौसम  पूर्वानुमान के अनुसार आप के  जिले दिल्ली में अगले तीन दिनों में वर्षा होने की संभावना नहीं है, लेकिन आंशिक रूप से बादल छाए रहेंगे। आज का अपेक्षित अधिकतम तापमान (15 डिग्री सेल्सियस और न्यूनतम तापमान 7 डिग्री सेल्सियस और हवा की गति 6-10 किलोमीटर प्रति घंटा) चलने की संभावना है।",2024-01-04T18:37:06.533,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Flowers,Carnation,Medicinal and Aromatic Plants,FARMER ASKED ME ABOUT  GENERAL INFO ?,"किसान भाई , आपकी बात किसान कॉल सेंटर से हो रही है यहां पर खेती-बाड़ी संबंधित जानकारी आप प्राप्त कर सकते हैं
+",2024-01-06T11:15:19.95,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED FOR IMPROVEMENT SALINE SOIL  ?,लवणीय मिट्टी सुधारने के लिए खेत के अंदर बुवाई से पहले जिप्सम का प्रयोग करें,2024-01-06T16:01:40.31,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,ASKED ME ABOUT TO PM KISAN SAMMAN NIDHI STATUS ?," 
+
+प्रधानमंत्री किसान सम्मान निधि योजना की अधिक जानकारी के लिए अपने क्षेत्र के नोडल अधिकारी से संपर्क करें। धन्यवाद
+
+",2024-01-07T17:45:39.69,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,ASKED ME ABOUT TO PM KISAN SAMMAN NIDHI STATUS ?," 
+
+प्रधानमंत्री किसान सम्मान निधि योजना की अधिक जानकारी के लिए अपने क्षेत्र के नोडल अधिकारी से संपर्क करें। धन्यवाद
+
+",2024-01-07T17:45:41.47,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-07T20:37:54.12,2024,1
+DELHI,New Delhi (Connaught Place),0   ,NA,AGRICULTURE,Others,Others,Government Schemes, Ask about information on  PM - KISAN beneficiary status	,"UP156262469
+
+પ્રધાનમંત્રી કિસાન સમ્માન નિધિ યોજના નું બેનેફિશ્યિરી સ્ટેટ્સ ચેક કરવા માટે આ લિંક ઉપર ક્લિક કરો. https://pmkisan.gov.in/BeneficiaryStatus_New.aspx",2024-01-11T12:50:08.297,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT THE PM KISAN ?,पीएम किसान सम्मन निधि योजना की किस्त अप्रैल माह से पहले कभी भी जारी की जा सकती है |,2024-01-11T17:51:02.183,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,TEST CALL,2024-01-14T08:27:45.903,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,"Power, Roads etc.",TEST CALL,TEST CALL,2024-01-14T08:48:11.473,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Vegetables,Cucumber,Seeds and Planting Material,ASKED ABOUT TO VARIETY OF CUCUMBER ?,"खीरा की प्रमुख किस्में- पोईनसेट, पूसा संयोग, पूसा उदय,पूसा बरखा है। 
+",2024-01-14T10:01:41.193,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Fruits,Jack Fruit,	Plant Protection	,FARMER ASKED ABOUT THE CONTROL OF INSECT IN JACK FRUIT ?,"फिप्रोनिल 80% डबल्यू.जी.0.5 ग्राम प्रति लीटर + मेंकोजेब 75% 2 ग्राम प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-15T10:47:08.75,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,farmer asked about to nil gya upchar ?,नीलगाय को खेतों की ओर आने से रोकने के लिए 4 लीटर मट्ठे में आधा किलो छिला हुआ लहसुन पीसकर मिलाकर इसमें 500 ग्राम बालू डालें। इस घोल को पांच दिन बाद छिड़काव करें। इसकी गंध से करीब 20 दिन तक नीलगाय खेतों में नहीं आएगी,2024-01-16T09:31:42.057,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,ASKED ABOUT TO PM KISAN SAMMAN NIDHI YOJANA ?,"पीएम किसान सम्मान निधि योजना में फार्म की जानकारी चेक करने के लिएओटीपी सिस्टम चालू कर दिया है इसलिए हमारा आपसे निवेदन है की फॉर्म आप नजदीकी जन सेवा केंद्र या पीएम किसान पोर्टल से चेक कर सकते हैं धन्यवाद | अधिक जानकारी के लिए ब्लॉक नोडल अधिकारी से संपर्क करें |
+Registration Number
+DL265509322",2024-01-17T16:13:19.487,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"
+THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-18T17:06:40.04,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,	Plant Protection	,"ASKED ABOUT TO INSECT CONTROL IN WHEAT?
+","--प्रोफेनोफोस 40% + साईपरमेथ्रिन 4% ई.सी. दवा का 1.5 एम.एल. प्रति लीटर पानी में घोल बना कर छिड़काव करें।
+",2024-01-19T12:08:04.14,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Fruits,Pomegranate,Nutrient Management,FARMER ASKED ME ABOUT FRUIT CRACKING CONTROL IN ANAR ?,"फल फटाव रोकने हेतु बोरेक्स 4 ग्राम प्रति लीटर पानी में घोल बनाकर छिड़काव करें। 
+",2024-01-20T08:24:14.41,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Oats ,Nutrient Management,ASKED ABOUT TO MICRO NUTRIENT MANAGEMENT ?,"मल्टीप्लेक्स (सूक्ष्म पोषक तत्व) 4 ML प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-22T17:26:55.73,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,Nutrient Management,FARMER ASKED ABOUT THE NUTRIENT MANAGEMENT IN WHEAT ?,"NPK 19:19:19 ग्रेड का 10 ग्राम प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-23T14:26:43.86,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Vegetables,Tomato,	Plant Protection	,"ASKED ABOUT  INSECT CONTROL IN TOMATO?
+","इमिडाक्लोप्रिड 17.8 एस एल 0.5 एम एल प्रति लिटर पानी में घोल कर जड़ क्षेत्र में डालें।
+",2024-01-24T12:39:58.687,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Oilseeds,Mustard,	Plant Protection	,ASKED ABOUT TO FROST SAVING,"पाले से बचाव के लिए फसलो में सल्फर 80% का 2 ग्राम प्रति लीटर पानी के हिसाब से छिड़काव करें
+",2024-01-26T13:15:00.183,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Fruits,Guava,Nutrient Management,"FARMER ASKED ABOUT NUTRIENT MANAGEMENT GUAVA  ?
+","सूक्ष्म पोषक तत्व 100 ग्राम प्रति पौधे के हिसाब से जड़ो में डालें।
+",2024-01-27T16:18:32.27,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,"ASKED ABOUT TO CONTACT NUMBER OF KVK  ?
+","Dr PURUSHOTTAM KUMAR, Head KVK,Haridwar Contact No.: +91-8475002233
+Dr Mahendra Choudhary, Head KVK, kota Contact No.: +91-9414213488
+Dr Ashok Kumar Sharma, Head KVK Dehradun, Contact No.: +91-8475002277",2024-01-30T10:27:07.42,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-31T20:10:48.117,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,Nutrient Management,"asked about to MANURE AND FERTILIZER IN WHEAT  ?
+",नैनो यूरिया का  4 मिलीलीटर प्रति लीटर पानी के घोल का खड़ी फसल में छिड़काव कर सकते हो,2024-01-31T20:20:53.733,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,Fertilizer Use and Availability,ASKED ABOUT NANO UREA USE ,नैनो यूरिया का प्रयोग गेहूं में फसल के 50 से 60  दिन की अवस्था पर करें अथवा यूरिया का प्रयोग ना कर पान की दशा में करें,2024-01-21T16:44:03.637,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,Nutrient Management,"ASKED ABOUT TO NUTRIENT MANAGEMENT  IN WHEAT ?
+","NPK 18:18:18 ग्रेड का 10 ग्राम प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-22T09:22:33.743,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Vegetables,Bitter Gourd,Nutrient Management,"FARMER ASKED ABOUT TO NUTRIENT MANAGEMENT IN  ?
+","NPK 18:18:18 ग्रेड का 10 ग्राम प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-23T14:00:53.333,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,ANIMAL HUSBANDRY,Animal,POULTRY  FARM ,Cattle shed Planning and Management,FARMER ASKED ABOUT THE POULTRY FARMING ?,"CONTACT NUMBER ORF POULTRY FARMING Vigilance Officer
+Dr. Gautham Kolluri, Scientist
+Mobile No.: 9536153139  ",2024-01-23T16:39:01.573,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Vegetables,Tomato,Nutrient Management,"ASKED ABOUT NUTRIENT MANAGEMENT IN TOMATO ?
+","मल्टीप्लेक्स (सूक्ष्म पोषक तत्व) 4 ML प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-24T12:41:02.037,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,farmer asked about to nil gya upchar khet  ?,नीलगाय को खेतों की ओर आने से रोकने के लिए 4 लीटर मट्ठे में आधा किलो छिला हुआ लहसुन पीसकर मिलाकर इसमें 500 ग्राम बालू डालें। इस घोल को पांच दिन बाद छिड़काव करें। इसकी गंध से करीब 20 दिन तक नीलगाय खेतों में नहीं आएगी,2024-01-26T12:51:05.53,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Fruits,Grape,Cultural Practices,FARMER ASKED SOWING TIME IN GRAPE ?,एक वर्ष पुरानी जड़युक्त कलमों को जनवरी माह में नर्सरी से निकल कर खेत में रोपित कर देते हैं.,2024-01-27T14:39:50.977,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,Cultural Practices,ASKED ABOUT TO WHEAT CROP INFORMATION ?,गेहूं की फसल पर खरपतवार नाशक दवा का असर कम करने के लिए खेत में नमी बनाए रखें और कंपोस्ट खाद का पानी 10 लीटर गर्मीवास को 100 लीटर पानी में मिलाकर छिड़काव करें |,2024-01-27T21:45:24.077,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-28T20:05:36.873,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Oilseeds,Safflower (kusum/kardi),	Plant Protection	,sunflower flower name session,अलग-अलग मौसम में अलग-अलग फूल खिलते हैं। सूरजमुखी केवल गर्मी के मौसम में ही खिलता है । गुलाब और गेंदा जैसे कुछ फूल अन्य मौसम में भी उगते हैं,2024-01-31T18:16:57.053,2024,1
+DELHI,EAST DELHI (Preet Vihar),0   ,NA,AGRICULTURE,Cereals,Wheat,Nutrient Management,"ASKED ABOUT TO NUTRIENT MANAGEMENT IN WHEAT  ?
+","पोटेशियम सल्फेट (NPK) 0:0:50 ग्रेड का 10 ग्राम प्रति लिटर पानी में घोल बना कर छिड़काव करें।  
+",2024-01-13T11:51:39.843,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,"FARMER ASKED ABOUT TO PM KISAN SAMMAN NIDHI YOJANA ?
+"," 
+पीएम किसान निधि योजना की अधिक जानकारी के लिए आप अपने ब्लॉक में नोडल ऑफिसर से संपर्क करें",2024-01-01T16:50:23.7,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Barley (Jau),Sowing Time and Weather,farmer asked about to crop sowing barley related information ?,अधिकतम उपज के लिए 15 अक्टूबर से 15 नवंबर तक बुआई पूरी कर लें। यदि बुआई में देरी हुई तो उपज में गिरावट आएगी।,2024-01-02T13:14:22.59,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Credit,ASKED ABOUT TO CONTACT NUMBER OF IARI PUSA DELHI ?,"पूसा दिल्ली के संपर्क नम्बर = 011-25841670, टोल फ्री नम्बर = 1800-11-8989 है।",2024-01-02T13:20:50.803,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,Weed Management,FARMER ASKED ABOUT THE CONTROL OF WEED IN WHEAT ?,गेहूं की फसल में दो माह की अवस्था पर कोई भी खरपतवार नाशक दवाई का उपयोग नहीं होगा आप खरपतवारों को निराई गुड़ाई करवा कर निकलवाए |,2024-01-03T16:00:01.05,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED TULSI SELL INFORMATION ?,तुलसी बचने के लिए आयुर्वेदिक कंपनीया आयुर्वेदिक दवा बनाने वाले संस्था से संपर्क करें,2024-01-06T16:52:48.793,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,ASKED ME ABOUT TO PM KISAN SAMMAN NIDHI STATUS ?," 
+
+प्रधानमंत्री किसान सम्मान निधि योजना की अधिक जानकारी के लिए अपने क्षेत्र के नोडल अधिकारी से संपर्क करें। धन्यवाद
+
+",2024-01-07T17:45:39.487,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ME ABOUT OTHER INFO ?,"--किसान भाई , आपकी बात किसान कॉल सेंटर से हो रही है यहां पर खेती-बाड़ी संबंधित जानकारी आप प्राप्त कर सकते हैं
+",2024-01-11T12:51:29.69,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"ਅਗਲੇ ਤਿੰਨ-ਚਾਰ ਦਿਨਾਂ ਤੱਕ ਤੁਹਾਡੇ ਜ਼ਿਲ੍ਹੇ ਵਿੱਚ ਮੌਸਮ ਸਾਫ਼ ਨਹੀਂ ਰਹੇਗਾ, ਇੱਥੇ ਵੱਧ ਤੋਂ ਵੱਧ ਤਾਪਮਾਨ 16 ਡਿਗਰੀ ਅਤੇ ਘੱਟੋ-ਘੱਟ ਤਾਪਮਾਨ 8 ਡਿਗਰੀ ਰਹੇਗਾ, ਪਰ ਮੀਂਹ ਪੈਣ ਦੀ ਕੋਈ ਸੰਭਾਵਨਾ ਨਹੀਂ ਹੈ।",2024-01-14T11:17:35.06,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT THE STATUS PM KISAN ?,REASON OF INELIGIBILITY (IF ANY) Not Eligible.,2024-01-14T15:32:02.5,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Vegetables,Cauliflower,Nutrient Management,FARMER ASKED ABOUT THE NUTRIENT MANAGEMENT IN CAULIFLOWER ?,"NPK 19:19:19 ग्रेड का 10 ग्राम प्रति लिटर पानी में घोल कर छिड़काव करें।
+सूक्ष्म पोषक तत्व 4 ग्राम प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-15T09:58:02.95,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes, Ask about information on  PM - KISAN beneficiary status ,प्रधानमंत्री किसान सम्मान निधि योजना के लाभार्थी की स्थिति जानने के लिए धन्यवाद ,2024-01-15T13:43:45.507,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-15T18:03:14.413,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-16T07:30:08.28,2024,1
+DELHI,New Delhi (Connaught Place),0   ,NA,AGRICULTURE,Oilseeds,Mustard,	Plant Protection	,FARMER ASKED ABOUT TO PM KISAN REGISTRATION STATUS INFORMATION ?,पीएम किसान निधि योजना की अधिक जानकारी के लिए आप अपने ब्लॉक में नोडल ऑफिसर से संपर्क करें,2024-01-16T10:48:22.12,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,ASKED ABOUT TO PM KISAN SAMMAN NIDHI YOJANA ?,पीएम किसान सम्मान निधि योजना में फार्म की जानकारी चेक करने के लिएओटीपी सिस्टम चालू कर दिया है इसलिए हमारा आपसे निवेदन है की फॉर्म आप नजदीकी जन सेवा केंद्र या पीएम किसान पोर्टल से चेक कर सकते हैं धन्यवाद | अधिक जानकारी के लिए ब्लॉक नोडल अधिकारी से संपर्क करें |,2024-01-17T16:06:14.18,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT THE STATUS OF PM KISAN ?,e-KYC Status :-  No,2024-01-19T09:55:38.263,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Flowers,Marigold,Nutrient Management,ASKED ABOUT TO USE OF NITROBENZIN IN JAFRI MERIGOLD ?,"नाइट्रोबेंजीन 35% - यह पौधों को ऊर्जा देने वाला, पुष्पों को बढ़ाने वाला और उपज बढ़ाने वाला है। यह पौधे की छत्रछाया को बढ़ाता है और प्रचुर मात्रा में फूल लाता है और जिससे उपज बढ़ती है। बुआई/रोपाई के 15 दिन बाद प्रत्येक 25 दिन में एक बार छिड़काव करने से उपज में काफी वृद्धि होती है",2024-01-19T14:55:09.817,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Market Information,"ASKED ABOUT TO MANDI RATE OF WHAET  ?
+","नरेला मंडी  के  गेहूं  के भाव -2435  प्रति क्विंटल है
+",2024-01-20T17:51:06.543,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Oilseeds,Sunflower (suryamukhi),Cultural Practices,farmer asked about to sunflower sowing time related information ?,जायद में सूरजमुखी की बुवाई का सर्वोत्तम समय फरवरी का दूसरा पखवारा है इस समय बुवाई करने पर मई के अंत पर जून के प्रथम सप्ताह तक फसल पक कर तैयार हो जाती है,2024-01-22T15:22:18.387,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Vegetables,Bottle Gourd ,Cultural Practices,Which crop is sown in Zaid?,"
+जायद सीजन की प्रमुख फसलों में मूंग, उड़द या उर्द, सूरजमुखी, मूंगफली, मक्का, चना, हरा चारा, कपास, जूट, धान, ज्वार, रेप्सीड, खरबूजा, तरबूज, ककड़ी, लोबिया, पत्तेदार सब्जियां, खीरा, टिंडा, तोरई, भिंडी और अरबी आदि शामिल है।",2024-01-22T15:28:03.213,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,Sowing Time and Weather,What is the time of sowing of wheat?,"
+बुआई का समय : समय से बुआई के लिए 15 अक्टूबर से 25 नवम्बर तक बुआई करनी चाहिए एवं विलम्ब से बुआई करने की दशा में 25 नवम्बर से 25 दिसम्बर तक बुआई अवश्य कर देनी चाहिए। देर से पकने वाले प्रजातियों की बुआई समय से अवश्य कर देना चाहिए अन्यथा उपज में कमी हो जाती है ",2024-01-22T15:31:21.507,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Oats ,Nutrient Management,ASKED ABOUT TO NUTRIENT MANAGEMENT IN  OATS ?,"NPK 18:18:18 ग्रेड का 10 ग्राम प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-22T17:26:11.85,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT TO PM KISAN REGISTRATION STATUS INFORMATION ?,प्रधानमंत्री किसान सम्मन निधि योजना की 16वीं किस्त फरवरी में आने की संभावना है,2024-01-22T18:19:59.88,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Vegetables,Beans ,Vegetative Propagation and Tissue Culture,NO VOICE OF THE FARMER,NO VOICE OF THE FARMER,2024-01-22T19:03:36.123,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Training and Exposure Visits,FARMER ASKED ABOUT FOR SUGARCANE JUGGRY? ,"डीडी किसान चैनल - 01126- 392321
+Dr Ashok Kumar Sharma, Head KVK, Contact No.: +91-8475002277
+Landline No	01360-224378
+Krishi Vigyan Kendra,Sugarcane Research Centre, Bajpur Road,Kashipur,Distt. Udham Singh Nagar
+Contact details	Dr Jitendra Kwatra, Head KVK, Contact No.: +91-9760226518
+",2024-01-23T11:05:15.937,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes," Farmer Asked  About  To PM Kisan Samman Nidhi Scheme
+"," प्रधानमंत्री किसान सम्मान निधि योजना की अधिक जानकारी के लिए अपने क्षेत्र के नोडल अधिकारी से संपर्क करें, हेल्पलाइन नंबर 011-24300606, 1800155261, 1800115526  पर संपर्क करें
+",2024-01-23T17:30:01.353,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Vegetables,Chillies,Nutrient Management,"ASKED ABOUT TO NUTRIENT MANAGEMENT  ?
+",सागरिका 28% (समुद्री शैवाल )का इस्तेमाल किसान आसानी से कर सकते हैं. इसके लिए 2 ML प्रति लीटर पानी में या 250 मिली प्रति एक एकड़ खेत में छिड़काव कर सकते हैं. जबकि सागरिका (समुद्री शैवाल )दानेदार का उपयोग एक एकड़ खेत में 8 से 10 किलो तक किया जा सकता है. वहीं बेल वाली फसलों के हर पेड़ पर 100 ग्राम सागरिका (समुद्री शैवाल )दानेदार के प्रयोग की सलाह दी जाती है.,2024-01-24T12:53:50.467,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-24T16:13:31.67,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,"FARMER ASKED ABOUT TO PM KISAN SAMMAN NIDHI YOJANA ?
+",पीएम किसान निधि योजना की अधिक जानकारी के लिए आप अपने ब्लॉक में नोडल ऑफिसर से संपर्क करें,2024-01-25T13:39:25.06,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-26T11:06:53.893,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Vegetables,Pea (Vegetable),"Water Management, Micro Irrigation",FARMER ASKED IRRIGATION INFORMATION IN PEA ?,बिजाई के बाद 1-2 सिंचाइयों की आवश्यकता होती है। पहली सिंचाई फूल निकलने से पहले और दूसरी सिंचाई फलियां बनने की अवस्था में करें। ज्यादा सिंचाई करने से पौधे पीले रंग के हो जाते हैं जिससे उपज में कमी आती है।,2024-01-27T14:51:12.96,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Seeds,ASKED ABOUT TO CONTACT NUMBER OF IARI PUSA DELHI ?,"पूसा दिल्ली के संपर्क नम्बर = 011-25841670, टोल फ्री नम्बर = 1800-11-8989 है।",2024-01-27T18:44:00.037,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Vegetables,Bitter Gourd,Seeds and Planting Material,"ASKED ABOUT TO VARIETIES OF BITTER GOURD ?
+","
+करेला की किस्म-  अर्का  हरित , प्रीति , प्रिया,  पूसा दो मौसमी, पूसा विशेष ,ग्रीन लॉन्ग है
+",2024-01-28T12:34:24.01,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"मौसम का पूर्वानुमान जिले का नाम new delhi और ब्लॉक south delhi अगले तीन दिनों में वर्षा होने की संभावना  है, लेकिन आंशिक रूप से बादल छाए रहेंगे। आज का अपेक्षित अधिकतम तापमान (16 डिग्री सेल्सियस और न्यूनतम तापमान 07 डिग्री सेल्सियस और हवा की गति 11 किलोमीटर प्रति घंटा) चलने की संभावना है।
+",2024-01-28T14:51:16.327,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,"FOR CALLING KISAAN CALL CENTER
+","आपकी बात  किसान कॉल सेंटर से हो रही है यहां पर खेती-बाड़ी संबंधित जानकारी प्राप्त कर सकते हैं
+",2024-01-28T18:32:57.177,2024,1
+DELHI,New Delhi (Connaught Place),0   ,NA,AGRICULTURE,Others,Others,Government Schemes,"FOR CALLING KISAAN CALL CENTER
+","--किसान कॉल सेंटर में कॉल करने के लिए धन्यवाद 
+",2024-01-29T16:09:10.81,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-30T15:17:19.997,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,Asked about bank Aadhaar seeding status 	,--પ્રધાનમંત્રી કિસાન સમ્માન નિધિ યજન માં બઁક આધાર સીડીગ કરવા તમારી બઁક નો સંપર્ક કરો અને ત્યાં DBT નું ફોરમ ભરવું અથવા npci કરાવવું ,2024-01-31T12:38:10.89,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-31T15:06:18.04,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,sunflower flower plant name ,सूरजमुखी या 'सूर्यमुखी' (वानस्पतिक नाम : हेलियनथस एनस) अमेरिका के देशज वार्षिक पौधे हैं। यह अनेक देशों के बागों में उगाया जाता है। यह कंपोजिटी (Compositae) कुल के हेलिएंथस (Helianthus) गण का एक सदस्य है।,2024-01-31T18:15:09.177,2024,1
+DELHI,EAST DELHI (Preet Vihar),DELHI,NA,AGRICULTURE,Others,Others,Training and Exposure Visits,FARMER ASKED ABOUT TRAINING IN INDO ISRAEL PROJECT ?,"Dr. Dharam Singh Yadav	ADH	0172-2582322 (Office)	
+Directorate of Horticulture, Haryana, Sector-21, Panchkula-134112
+adhort-hry[at]nic[dot]in",2024-01-15T14:42:48.427,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Vegetables,Bottle Gourd ,Seeds and Planting Material,FARMER ASKED ME ABOUT SOWING OF VEGETABLE ?,"बेल वाली सब्जियों की खेती जैसे लौकी , खीरा,टिंडा इत्यादि की खेती आप फरवरी में कर सकते हो",2024-01-01T09:30:54.367,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,Nutrient Management,"FARMER ASKED NUTRIENT MANAGEMENT IN WHEAT ?
+","NPK 18:18:18 ग्रेड का 10 ग्राम प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-02T18:40:10.09,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Fruits,Orange,Cultural Practices,FARMER ASKED ABOUT THE CULTURAL PRACTICES IN ORANGE ?,संतरे के फल पीले पड़ गए हैं तो आप उनकी तुड़ाई कर सकते हैं |,2024-01-04T10:00:35.767,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"
+THANX FOR CALLING KISAAN CALL CENTER",2024-01-04T15:15:30.47,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Fruits,Orange,Nutrient Management,ASKED ABOUT NUTRIENT MANAGEMENT IN ORANGE ?,"NPK 18:18:18 ग्रेड का 10 ग्राम प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-06T11:46:23.553,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,"ASKED ABOUT TO  CONTACT NUMBER OF IARI PUSA DELHI ? 
+","पूसा दिल्ली के संपर्क नम्बर = 011-25841670, टोल फ्री नम्बर - 1800-11-8989 है। 
+",2024-01-06T16:43:35.233,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,ASKED ME ABOUT TO PM KISAN SAMMAN NIDHI STATUS ?," 
+
+प्रधानमंत्री किसान सम्मान निधि योजना की अधिक जानकारी के लिए अपने क्षेत्र के नोडल अधिकारी से संपर्क करें। धन्यवाद
+
+",2024-01-07T17:45:41.267,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,NO VOICE OF THE FARMER,"आवाज नहीं आ पाने के कारण से आपके कॉल को डिस्कनेक्ट किया जा रहा है किसान कॉल सेंटर में फोन करने के लिए धन्यवाद
+",2024-01-09T09:00:04.01,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Credit,ASKED ABOUT TO CLEANING WORK INFORMATION ?,सफाई से संबंधित कार्य के लिए नगरपालिका में संपर्क करें।,2024-01-10T12:58:08.873,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"मौसम का पूर्वानुमान जिले का नाम दिल्ली और ब्लॉक दिल्ली अगले तीन दिनों में वर्षा होने की संभावना नहीं है, लेकिन आंशिक रूप से बादल छाए रहेंगे। आज का अपेक्षित अधिकतम तापमान (14 डिग्री सेल्सियस और न्यूनतम तापमान 07 डिग्री सेल्सियस और हवा की गति 05 किलोमीटर प्रति घंटा) चलने की संभावना है।
+",2024-01-12T12:08:32.36,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes, Ask about information on  PM - KISAN beneficiary status	,પ્રધાનમંત્રી કિસાન સમ્માન નિધિ યોજના નું બેનેફિશ્યિરી સ્ટેટ્સ ચેક કરવા માટે આ લિંક ઉપર ક્લિક કરો. https://pmkisan.gov.in/BeneficiaryStatus_New.aspx,2024-01-12T19:33:26.023,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ME ABOUT SUBSIDY ON DRONE SYSTEM ?,"कृषि प्रशिक्षण संस्थानों, कृषि विश्वविद्यालयों को ड्रोन खरीदने के लिए 100 प्रतिशत यानी अधिकतम 10 लाख तक का अनुदान दिया जा रहा है. वहीं, कृषक उत्पादक संगठनों को खरीद पर 75 प्रतिशत तक का अनुदान दिया जाता है.",2024-01-13T12:45:28.497,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,"Power, Roads etc.",TEST CALL,TEST CALL,2024-01-14T08:48:00.43,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Oilseeds,Mustard,	Plant Protection	,FARMER ASKED ABOUT THE CONTROL OF DISEASE IN MUSTARD ?,"कार्बेन्डाजिम 50 % 1 किलोग्राम प्रति हेक्टेयर के हिसाब से सिंचाई के साथ जड़ क्षेत्र में डालें।
+",2024-01-17T16:35:34.1,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,Seeds,"asked about to storage pest management
+","पायराद किकरी दवा की एक गोली प्रति 10 क्विंटल अनाज हेतु भंडारण में रखें
+इथाइल डाई ब्रोमाइड  3 गोली प्रति 10 क्विंटल अनाज के हिसाब से प्रधूमन करें।
+",2024-01-19T12:11:40.12,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Flowers,Marigold,Nutrient Management,ASKED ABOUT TO NUTRIENT MANAGEMENT IN JAFRI MERIGOLD  ?,"NPK 18:18:18 ग्रेड का 10 ग्राम प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-19T14:56:14.017,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-19T16:33:46.653,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes, Ask about information on  PM - KISAN beneficiary status,प्रधानमंत्री किसान सम्मान निधि योजना के लाभार्थी की स्थिति जानने के लिए इस लिंक पर क्लिक करें https://pmkisan.gov.in/BeneficiaryStatus_New.aspx,2024-01-21T18:53:44.05,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes, Ask about information on  PM - KISAN beneficiary status,प्रधानमंत्री किसान सम्मान निधि योजना के लाभार्थी की स्थिति जानने के लिए इस लिंक पर क्लिक करें https://pmkisan.gov.in/BeneficiaryStatus_New.aspx,2024-01-21T18:58:20.403,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Vegetables,Cauliflower,Organic Farming,Information related to planting vegetables,"इस मौसम में तैयार बन्दगोभी, फूलगोभी, गांठगोभी आदि की रोपाई मेड़ों पर कर सकते हैं। ",2024-01-22T15:20:00.25,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Oilseeds,Sunflower (suryamukhi),	Plant Protection	,farmer asked about to Information related to sunflower seed rate ?,"बीज की मात्रा अलग अलग पड़ती है, जैसे की संकुल या सामान्य प्रजातियो  में 12 से 15 किलो ग्राम प्रति हैक्टर बीज लगता है और संकर प्रजातियो में 5 से 6 किलो ग्राम प्रति हैक्टर बीज लगता हैI यदि बीज की जमाव गुणवता 70% से कम हो तो बीज की मात्रा बढ़ाकर बुवाई करना चाहिए, ",2024-01-22T15:24:14.363,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-24T16:27:26.697,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-24T19:03:35.72,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,ASKED ABOUT KISAN CREDIT CARD,"किसान क्रेडिट कार्ड आप बैंक शाखा से बनवा सकते हैं इस पर 7% ब्याज दर रहती है अगर आप  समय पर जमा करा रहे हैं तो केंद्र सरकार की तरफ से 3% राशि माफ कर दी जाती है
+",2024-01-26T19:10:21.05,2024,1
+DELHI,New Delhi (Connaught Place),0   ,NA,AGRICULTURE,Cereals,Triticale,Weather,Farmer asked query on Weather,"मौसम  पूर्वानुमान के अनुसार आप के  जिले …दक्षिण-पश्चिम-दिल्ली …में अगले तीन दिनों में हल्की वर्षा होने की संभावना  है, और  आज का अपेक्षित अधिकतम तापमान (20 डिग्री सेल्सियस और न्यूनतम तापमान 9 डिग्री सेल्सियस और हवा की गति  10-15 किलोमीटर प्रति घंटा) चलने की संभावना है।
+",2024-01-30T08:19:03.73,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,अगले 5 दिन में दिल्ली में गरज से साथ हल्की वर्षा होने की संभावना हैl  अधिकतम तापमान 17 डिग्री सेंटीग्रेड है न्यूनतम तापमान 8 डिग्री सेंटीग्रेड हवा की गति 9 किलोमीटर प्रति घंटा की रफ्तार से चलेगी,2024-01-30T18:06:13.97,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"मौसम का पूर्वानुमान जिले का नाम…NEW DELHI..और ब्लॉक…NORTH DELHI अगले तीन दिनों में वर्षा होने की संभावना नहीं है, लेकिन आंशिक रूप से बादल छाए रहेंगे। आज का अपेक्षित अधिकतम तापमान (19 डिग्री सेल्सियस और न्यूनतम तापमान 9 डिग्री सेल्सियस और हवा की गति 6 किलोमीटर प्रति घंटा) चलने की संभावना है।
+",2024-01-31T10:18:38.32,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Vegetables,Potato,Nutrient Management,TEST CALL,TEST CALL,2024-01-31T17:30:31.337,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"मौसम का पूर्वानुमान, जिले का नाम NEW DELHI और ब्लॉक DELHI में अगले तीन दिनों में वर्षा होने की संभावना है, और आंशिक रूप से बादल छाए रहेंगे। आज का अपेक्षित अधिकतम तापमान 15 डिग्री सेल्सियस और न्यूनतम तापमान 06 डिग्री सेल्सियस और हवा की गति 04 किलोमीटर प्रति घंटा चलने की संभावना है।
+",2024-01-03T17:22:52.68,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Fruits,Citrus,Nutrient Management,"ASKED ABOUT TO BACTERIAL BLIGHT DISEASE IN CITRUS ?
+","कॉपर ऑक्सीक्लोराइड 50% डब्लू.पी.(ब्लइटटॉक्स/ ब्लू कॉपर) 45 ग्राम + स्ट्रेप्टोसाईक्लीन 2 ग्राम दवा का प्रति 15 लिटर पानी में घोल बना कर छिड़काव करें।
+",2024-01-07T12:07:18.577,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-09T12:39:41.433,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,	Plant Protection	,ASKED ABOUT ABOUT INSECT CONTROL IN WHEAT ?," दीमक की रोकथाम के लिये क्लोरोपायरिफॉस 20%  ई.सी. 4 लिटर प्रति हेक्टेयर की दर से सिंचाई के साथ देवें।   
+",2024-01-11T10:17:31.86,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,	Plant Protection	,ASKED ABOUT ABOUT INSECT CONTROL IN WHEAT ?," दीमक की रोकथाम के लिये क्लोरोपायरिफॉस 20%  ई.सी. 4 लिटर प्रति हेक्टेयर की दर से सिंचाई के साथ देवें।   
+",2024-01-11T10:17:32.11,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Credit,ASKED ABOUT TO CONTACT NUMBER INFORMATION ?,हमारे पास नंबर बदलने की सुविधा नहीं है क्रॉप इंश्योरेंस में नंबर चेंज खुद फार्मर करवा सकता है,2024-01-11T11:41:39.08,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Fruits,Mango,	Plant Protection	,"ASKED ABOUT TO INSECT CONTROL IN MANGO ?
+","डाईमिथोएट 30 ई.सी. 2 एम एल प्रति लीटर पानी की दर से छिड़काव करें।
+",2024-01-11T13:19:16.367,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Fruits,Mango,Fertilizer Use and Availability,ASKED ABOUT TO FERTILIZER DOSE IN MANGO ?," 15 साल के आम में देशी खाद 60 किलो, यूरिया 200 ग्राम, सुपर फॉस्फेट 750 ग्राम, म्यूरेट ऑफ पोटाश 300 ग्राम, सूक्ष्म पोषक तत्व 100 ग्राम प्रति पौधा देवें।
+",2024-01-11T13:22:33.41,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Sowing Time and Weather,ASKED ABOUT TO SOWING TIME OF VEGETABLE IN JANUARY ?,"जनवरी का महीना सब्जियों की खेती मौसम में उगाई जाने वाली प्रमुख सब्जियों की तो इसमें से गर्मियों के दिनों में तैयार होने वाली सब्जी और फलों को प्राथमिकता दी जाती है. जैसे लौकी, बंद गोभी, भिंडी, करेला, खीरा, ककड़ी. अरबी, मिर्च, टमाटर, पालक आदि.",2024-01-11T13:26:22.967,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Drug and Narcotics,OPIUM POPY,Nutrient Management,"FARMER ASKED ABOUT TO NUTRIENT MANAGEMENT IN  ?
+","NPK 18:18:18 ग्रेड का 10 ग्राम प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-13T14:56:59.813,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Vegetables,Bhindi(Okra/Ladysfinger),Cultural Practices,FARMER ASKED ABOUT THE CULTURAL PRACTICES IN BHINDI ?,भिंडी की फसल लगाने के समय तापमान 20 डिग्री सेंटीग्रेड से 25 सेंटीग्रेड के बीच होना आवश्यक है |,2024-01-14T15:02:05.343,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,ANIMAL HUSBANDRY,Animal,"Bovine(Cow,Buffalo)",Market Information,FARMER ASKED ME ABOUT ANIMAL DEPTT. INFO ?,--पशुपालन से संबंधित जानकारी के लिए आप अपने नजदीकी पशुपालन विभाग में संपर्क कीजिए,2024-01-15T10:34:17.88,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Credit,"Information regarding PM Kisan Samman Nidhi Scheme?
+",ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਕਿਸਾਨ ਸਨਮਾਨ ਨਿਧੀ ਯੋਜਨਾ ਵਿੱਚ ਕਿਸੇ ਵੀ ਸਮੱਸਿਆ ਲਈ ਇਸ ਨੰਬਰ 'ਤੇ ਸੰਪਰਕ ਕਰੋ -73409-03355. or email pmkisan98@gmail.com ,2024-01-15T20:19:47.92,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT TO PM KISAN REGISTRATION STATUS INFORMATION ?,पीएम किसान निधि योजना की अधिक जानकारी के लिए आप अपने ब्लॉक में नोडल ऑफिसर से संपर्क करें,2024-01-16T12:38:22.897,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Fruits,Banana,	Plant Protection	,FARMER ASKED ME ABOUT FUNGUS DIS CONTROL  IN BANANA ?,"--कॉपर ऑक्सीक्लोराइड 50% डब्लू.पी.(ब्लइटटॉक्स/ ब्लू कॉपर) 45 ग्राम + स्ट्रेप्टोसाईक्लीन 2 ग्राम दवा का प्रति 15 लिटर पानी में घोल बना कर छिड़काव करें।
+मल्टीप्लेक्स (सूक्ष्म पोषक तत्व) 4 ML प्रति लिटर पानी में घोल कर छिड़काव करें।
+",2024-01-17T12:52:01.397,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Organic Farming,FARMER ASKED ABOUT THE NATURAL FARMING ?,"प्राकृतिक खेती के अंदर आपको सभी उत्पाद जो की प्राकृतिक रूप में उपलब्ध है वही काम में लेने होते हैं जैसे कि गोबर की खाद, वर्मी कंपोस्ट, कंपोस्ट, हरी खाद इसके अलावा जैविक रूप से तैयार कीटनाशी में नीम के उत्पाद, ट्राईकोडरमा, वेस्ट-डीकंपोजर आदि का उपयोग करना होता है |",2024-01-17T14:48:02.89,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,ASKED ABOUT TO   ANIMAL CARE HELPLINE NUMBER  24 HOURS ?,पशु देखभाल हेल्पलाइन नंबर 24 घंटे = 011 - 23967555,2024-01-17T15:21:55.423,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-17T21:05:49.783,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes," ASKED ABOUT TO PM KISAN SAMMAN NIDHI YOJANA ?
+",e-KYC Status :-  No,2024-01-19T14:47:26.29,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"मौसम का पूर्वानुमान जिले का नाम दिल्ली और ब्लॉक दिल्ली अगले तीन दिनों में वर्षा होने की संभावना नहीं है, लेकिन आंशिक रूप से बादल छाए रहेंगे। आज का अपेक्षित अधिकतम तापमान (16 डिग्री सेल्सियस और न्यूनतम तापमान 06 डिग्री सेल्सियस और हवा की गति 02 किलोमीटर प्रति घंटा) चलने की संभावना है।
+",2024-01-19T17:21:31.86,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-19T17:24:37.623,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-21T17:29:48.41,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Nutrient Management,"ASKED ABOUT TO NUTRIENT MANAGEMENT  ?
+","सूक्ष्म पोषक तत्व 100 ग्राम प्रति पौधे के हिसाब से जड़ो में डालें।
+",2024-01-22T13:11:50.863,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT TO PM KISAN REGISTRATION STATUS INFORMATION ?,पीएम किसान निधि योजना की अधिक जानकारी के लिए आप अपने ब्लॉक में नोडल ऑफिसर से संपर्क करें,2024-01-23T12:28:41.827,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,Weed Management,FARMER ASKED ABOUT THE CONTROL OF WEED IN WHEAT ?,NPK 0:52:34  का 10 ग्राम मात्रा प्रति लीटर पानी के हिसाब से गोल बनाकर छिड़काव करें |,2024-01-23T14:55:38.51,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Weed Management,CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-23T18:02:19.85,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Vegetables,Tomato,	Plant Protection	,"FARMER ASKED ABOUT TO INSECT CONTROL IN TOMATO ?
+","डाईमिथोएट 30 ई.सी. 2 एम एल प्रति लीटर पानी की दर से छिड़काव करें।
+",2024-01-24T12:53:46.23,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,"FOR CALLING KISAAN CALL CENTER
+","आपकी बात  किसान कॉल सेंटर से हो रही है यहां पर खेती-बाड़ी संबंधित जानकारी प्राप्त कर सकते हैं
+",2024-01-24T16:27:38.873,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-26T11:48:54.413,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Government Schemes,FOR CALLING KISAAN CALL CENTER,"THANX FOR CALLING KISAAN CALL CENTER
+",2024-01-26T13:10:31.897,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Credit,ASKED ABOUT TO SCHEME INFORMATION ?,वर्तमान में सरकार के द्वारा संचालितयोजनाओं में पीएम किसान सम्मन निधि योजना कुसुम योजना कृषि यंत्रों पर अनुदान उड़ान विभाग पर अनुदानउपलब्ध है अगर आप कृषि करते हैं तो इन सब योजनाओं का लाभ ले सकते हैं |,2024-01-26T19:29:16.57,2024,1
+DELHI,New Delhi (Connaught Place),0   ,NA,AGRICULTURE,Cereals,Wheat,Nutrient Management,"Asked about  to the fertilizer wheat crops ?
+","गेहु की खड़ी  -  50 किलोग्राम यूरिया प्रति हेकटेयर सिंचाई के साथ बुरकाव करे
+",2024-01-27T12:25:59.863,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,HORTICULTURE,Fruits,Guava,Nutrient Management,"FARMER ASKED ABOUT NUTRIENT MANAGEMENT GUAVA  ?
+","फेरस सल्फेट 5 ग्राम + साइट्रिक एसिड 1 ग्राम प्रति लीटर पानी में घोल बना कर छिड़काव करें।
+",2024-01-27T16:19:34.2,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,Weather,Farmer asked query on Weather,"मौसम  पूर्वानुमान के अनुसार आप के  जिले …साउथ वेस्ट दिल्ली  ( द्वारका )…में अगले तीन दिनों में वर्षा होने की संभावना नहीं है, लेकिन आंशिक रूप से बादल छाए रहेंगे। आज का अपेक्षित अधिकतम तापमान (19 डिग्री सेल्सियस और न्यूनतम तापमान 8 डिग्री सेल्सियस और हवा की गति 5-7 किलोमीटर प्रति घंटा) चलने की संभावना है।
+",2024-01-28T10:12:39.297,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,Government Schemes,"ASKED ABOUT TO NUTRIENT MANAGEMENT IN WHEAT ?
+","सल्फर 80%WDG का 2 ग्राम प्रति लीटर पानी के हिसाब से छिड़काव करें
+जिंक सल्फ़ेट 33% 5 ग्राम प्रति लीटर पानी में घोल बना कर छिड़काव करें।
+",2024-01-29T20:07:48.693,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"मौसम का पूर्वानुमान जिले का नाम दिल्ली ब्लॉक दिल्ली अगले 5 दिनों में हल्की वर्षा होने की संभावना है, लेकिन आंशिक रूप से बादल छाए रहेंगे। आज का अपेक्षित अधिकतम तापमान (20 डिग्री सेल्सियस और न्यूनतम तापमान 09 डिग्री सेल्सियस और हवा की गति 06 किलोमीटर प्रति घंटा) चलने की संभावना है। और बारिश होने की स्थिति में कृपया फसलों में किसी भी प्रकार का स्प्रे ना करें सिंचाई ना करें।
+",2024-01-30T15:55:23.237,2024,1
+DELHI,New Delhi (Connaught Place),DELHI,NA,AGRICULTURE,Cereals,Wheat,Nutrient Management,"ASKED ABOUT MANURE AND FERTILIZER IN WHEAT  ?
+","गेहूं की खड़ी फसल में प्रथम एवं दूसरी सिंचाई में  100 किलो  यूरिया  प्रति हेक्टर के हिसाब से देते हैं
+",2024-01-31T20:16:35.29,2024,1
