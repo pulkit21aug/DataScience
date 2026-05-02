@@ -1,0 +1,10 @@
+
+*.bin
+datagov/kcc/chroma.sqlite3
+/datagov/kcc/logs
+.idea/
+gen-ai/google_vertex/__pycache__/__init__.cpython-311.pyc
+gen-ai/google_vertex/__pycache__/auth_login.cpython-311.pyc
+gen-ai/lang_chain/__pycache__/__init__.cpython-311.pyc
+GST_Hackathon/.venv/Scripts/python.exe
+GST_Hackathon/__pycache__/gst_eda.cpython-311.pyc
